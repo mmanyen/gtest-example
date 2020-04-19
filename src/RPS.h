@@ -1,0 +1,1 @@
+const char *returnPassedString(const char *p);
